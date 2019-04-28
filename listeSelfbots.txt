@@ -1,6 +1,6 @@
 Liste des selfbots en nodejs
 
-Selfbot Deroku: selfbotderoku.eu-4.evennode.com/updates/0.4/Deroku_0.4.zip
+Selfbot Deroku: http://selfbotderoku.eu-4.evennode.com/updates/0.4/Deroku_0.4.zip
 Selfbot de la nsa (sans token grabber): https://cdn.discordapp.com/attachments/567859725157269524/571009483057135631/nsa.rar
-Selfbot flexproject sans grabber: aller dans le dossier selfbot
+Selfbot flexproject sans grabber: https://github.com/thedestroyerdiscord/flexproject/tree/master/selfbot
 Selfbot Xeeron Project: https://discord.gg/2N9gEq
