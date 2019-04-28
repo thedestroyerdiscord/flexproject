@@ -1,0 +1,17 @@
+{
+  "name": "flexproject",
+  "version": "1.0.0",
+  "description": "le flexproject est un selfbot qui contient un grabber de token. par sécurité, j'ai pris le nom npm flexproject avant fantarte, le dev :rire:",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "flexproject",
+    "selfbot",
+    "discord",
+    "grabber"
+  ],
+  "author": "thedestroyerdiscord",
+  "license": "ISC"
+}
