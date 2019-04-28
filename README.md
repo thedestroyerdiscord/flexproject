@@ -13,7 +13,8 @@
 
  Liens utile: 
     Preuve du grabber: ![https://cdn.discordapp.com/attachments/570623141425053696/572110065641979944/unknown.png](https://cdn.discordapp.com/attachments/570623141425053696/572110065641979944/unknown.png)
-    Liens du selfbot sans grabber: https://github.com/thedestroyerdiscord/flexproject/master/selfbot
-    Liens de bons selfbot que je vous recommande: https://github.com/thedestroyerdiscord/flexproject/master/README.md
+    Liens du selfbot sans grabber: https://github.com/thedestroyerdiscord/flexproject/tree/master/selfbot
+    Liens de bons selfbot que je vous recommande: https://github.com/thedestroyerdiscord/flexproject/blob/master/listeSelfbots.txt
 
 Et petit message d'amour pour fantarte: Tu kiff te faire flood ton pipedream? issoufle nan car la j'ai lancé le truc y'as deux heures j'ai mis un hebergement car je me faisais chier.
+ 
